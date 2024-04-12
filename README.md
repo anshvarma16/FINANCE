@@ -1,6 +1,6 @@
-# FINANCE
-## Financial Integration and Navigation App for Networked Comprehensive Evaluation
-Finance is a web application that helps users track their finances, including debts, growth, profits, losses, and net worth. This project is built using HTML, CSS (with Tailwind CSS), and JavaScript.
+# Finance Tracker
+
+Finance Tracker is a web application that helps users track their finances, including debts, growth, profits, losses, and net worth. This project is built using HTML, CSS (with Tailwind CSS), and JavaScript.
 
 ## Features
 
@@ -8,4 +8,32 @@ Finance is a web application that helps users track their finances, including de
 - Update financial data through an input page.
 - View charts to visualize financial data over time.
 - Dark mode support for better readability.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+Make sure you have the following software installed on your machine:
+
+- Git
+- Any modern web browser (such as Google Chrome, Mozilla Firefox, or Microsoft Edge)
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
+```
+2. Navigate to the project directory:
+```bash
+cd FINANCE
+```
+3. Open index.html in a web browser to view the home page
+4. Open the dashboard.html file in a web browser to access the input form for updating financial data.
+
+
+
 
